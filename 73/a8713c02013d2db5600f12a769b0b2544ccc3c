@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-4.19.83/ v4.19.83
+Comment: git version 2.24.0
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAl3H53QACgkQONu9yGCS
+aT5voxAAj+sLBkHquaWfJNgDsQBitQvYSwAbCLl16sBIlsI9u2WyPsZou0+ocGjf
+OVkwwVEgQbNHEIIw9a0Z+dMMf1vfj25BHgbjklE//LSvs5Dlm2HPRo5AuvV7HOr/
+maJ7oCjELGQbjpWr1gW1oJTCquoRCDPOcuq2Hl6T1wHqbgsBIQttlhkbjRbEVdNX
+AMCybpQYV6lwO5sbbRoz2zgk0j+VKHanFda7FYDDcQ4O5ZKd19WwMFV1jGgaN/gw
+mS+OPSwQmQlDnXGAjxAWGpBkgxMB3YfFtMeAk4JC4uLYvnQtcf89E2xY6dZC+hej
+J3t/Df2yAyTH+TRWndxrA3DvALM+o6PiGwW07dbxQrKDqYRamzvOC5oFUmkkFhki
+LhHr07OCH6r3IyRtPhpI3NVElIRZZ6DFA01KThncZhZM7F/8bGMpju0ogJU3B5vn
+K3F15N0K73o3OTEq7U3FpDxNYkU6HzbT+eDre/4UwV9l5KmiSE23GgTqLHDCHFp2
++ChQXmvdasHfVRJjxq2hmZCW1hIWIyJvj1B2x9XVi6UGvzfh4hT+GOdnLOGYJnyx
+OyM71MRWslC9HCjYvUfwwagEQl2mW6FkBkwH+3V2mW4UgU6bfDDwru8fo01W6SUw
+QsTbX5dLQ29Ld/60X4F9Iydt4TNayQp+RRrFTS8mzx+US6ANSLQ=
+=VRIR
+-----END PGP SIGNATURE-----
