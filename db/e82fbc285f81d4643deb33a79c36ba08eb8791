@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.4.44/ v5.4.44
+Comment: git version 2.26.2
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAl7XQagACgkQONu9yGCS
+aT4mSA/6AkIDrnoUvhetos9k0kzazVTaxA+1xOkJJQZaduGLwdDv6CEioIdxvyhP
+n0F1GBqnX2KmukVDKnm2npVpBM39gxDGoC6L4DzKOMSARIFHcTXycveqdB4ar+DQ
+4/bwe04XXlt7o0tuotxajvKUBaLnI4LTb1eE5zDz8Aj0cAzcmZAN5N+oSEHWfTqI
+/BIkCE42NQbOMF4B9k0Dyb2GSjK27Wgrz1ndmWMLgcKOr+KiIzw3i5Y3pphntXp9
+2qZ3BXsgvOItkjVR8nxUeoFOTe++lONNNb39LYrCvRwrqtBPLv5ttJt5Zo1xorOD
+ZPYI/3x92IeJ5AOC9/wv455gpjcOpNiRwXBQlkk6YqWIkWs4R0Xgkpm31dI5Gjsz
+AkukdZ1+MNtN0CAgqfQtbFRWNIFFhBtat2+FXlQDuAjyTwKtPeKiZLPoRHBlkRDB
+ct6Pc06HHDVSFUCNAFAUgQ4qX/M4QpvgAk+gGTHCXQBp12qyz8KapOBcGeU6Asne
+mJ55fUesiKj7yVGWsIqGqlkQftjCCnKehHQ8reHBdTbXZWYGHis+b/HZBoW+ecc5
+/MqdOXyen6SVd95/RR/t49j+hKk8C7BEZLG6+958A7MPqxA8ySPq1OqUh41umwNY
+PJfndz2AJ4MiftpBISnmP8rXaalThPAyBLJWOg2LoeswfbD5qRI=
+=6/7w
+-----END PGP SIGNATURE-----
