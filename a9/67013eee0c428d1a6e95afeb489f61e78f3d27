@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNATURE-----
+Comment: This signature is for the .tar version of the archive
+Comment: git archive --format tar --prefix=linux-5.4.86/ v5.4.86
+Comment: git version 2.29.2
+
+iQIzBAABCAAdFiEEZH8oZUiU471FcZm+ONu9yGCSaT4FAl/sXAMACgkQONu9yGCS
+aT7GiRAAhLPdRTrX9PHL0BMmMmBoepbYH5JjabKUeZ0hxdw/0HnDRzrSKjUpH3UP
++CK8kJbjmb3KPyeaVMJoakeCQxy+74ZuLx+Z6pe0vjV8AWFIxOvRz2GDJX8btEDl
+Hg/VcPGsjlCUYA58ZrK79BdHEYeL1PEe5NEZ0Ryrjn/olLuj7QevzGGPFMZArKww
+gBYnimEMIePAtwCXrUVqmLLqTbsqXyTsYE5J/hWkJPs9zLeBD0B7QRxNF8SKh+jp
+U/It5WbSYdzWgG1aQGUlL/d1KoAOO0vFe85Tx/V2usogXaG4815XNPi3W/qlLZyl
+dMbwRA6bDD8XwDiE02t3n+TBWQx4TAMYn47eFRhdopycIPR2f7zgh5qwZRY4nt9N
+UV/MOC6ffkT4Azriii7+3/hiDEhaznKCS3oJIvEf4PnHaEjQW64Ot5KVrmuGUVZR
+wRwPm4Y5bxTUK+dadhZBVY5n//zAKFPEPDku/J1y+QvRw0J6s8H1t1mD2nBH1VM3
+DvKA/Ki7m7/SOR1K3mFDiUjG6k6LX7FQi7PiSnIwpZS+BrWlbWg7mie0RWS/HWLO
+lKc6yAmdGgAZXlCoKDRIpAQpy15K+X6E87j2kSPHLlxDMnPIjCHQuDCqsG/RqiQK
+pOgVOlC1moHfChQ/pZ14mCSZcUwxjDi8LIWWo45aP6sofPDRoNw=
+=cS2d
+-----END PGP SIGNATURE-----
